@@ -85,3 +85,4 @@ The initial quick-commerce concept was inspired by [Blinkit-UI](https://github.c
 
 No `LICENSE` file is currently included. Add one before redistributing this project under a specific open-source license.
 "# freshkart" 
+"# freshkart" 
